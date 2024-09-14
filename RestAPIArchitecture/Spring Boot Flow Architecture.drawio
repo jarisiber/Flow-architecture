@@ -7,10 +7,10 @@
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;h1&gt;Client&lt;/h1&gt;&lt;p&gt;Request Response&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="230" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Controller&lt;/h1&gt;&lt;p&gt;Mapping REST API&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-17" value="&lt;h1&gt;Controller&lt;/h1&gt;&lt;p&gt;Mapping REST API&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="486" y="230" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Service Layer&lt;/h1&gt;&lt;p&gt;Business logic inside.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
+        <mxCell id="4ec97bd9e5d20128-18" value="&lt;h1&gt;Service Layer&lt;/h1&gt;&lt;p&gt;Business logic inside.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="789" y="230" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lLHDqfpQ_8zfisPfltb2-1" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ec97bd9e5d20128-16" target="4ec97bd9e5d20128-17">
@@ -22,7 +22,7 @@
         <mxCell id="lLHDqfpQ_8zfisPfltb2-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="964" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lLHDqfpQ_8zfisPfltb2-6" value="&lt;h1&gt;Model&lt;/h1&gt;&lt;p&gt;Entity.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="lLHDqfpQ_8zfisPfltb2-6" value="&lt;h1&gt;Model&lt;/h1&gt;&lt;p&gt;Entity.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontSize=13;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1095" y="230" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lLHDqfpQ_8zfisPfltb2-7" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=12;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="lLHDqfpQ_8zfisPfltb2-8" value="Request&lt;div&gt;Response&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLHDqfpQ_8zfisPfltb2-9" value="&lt;h1&gt;Repository&lt;/h1&gt;&lt;p&gt;Extending CRUD Services, such DTO.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="lLHDqfpQ_8zfisPfltb2-9" value="&lt;h1&gt;Repository&lt;/h1&gt;&lt;p&gt;Extending CRUD Services, such DTO.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="10" width="215" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lLHDqfpQ_8zfisPfltb2-10" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ec97bd9e5d20128-17" target="4ec97bd9e5d20128-18">
@@ -72,6 +72,12 @@
               <mxPoint x="897" y="500" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lLHDqfpQ_8zfisPfltb2-17" value="Dependency injection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="896" y="168" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLHDqfpQ_8zfisPfltb2-18" value="SPRING BOOT FLOW ARCHITECTURE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="85" width="510" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
